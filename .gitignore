@@ -1,0 +1,12 @@
+#C/C++
+
+*.o
+*.exe
+*.lib
+*.a
+
+#backups
+*~
+
+#linux exe
+fft_test
